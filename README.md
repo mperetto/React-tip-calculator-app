@@ -30,12 +30,12 @@ Users should be able to:
 ![Desktop version](./src/images/screenshot-desktop.png)
 
 #### Mobile version:
-![Mobile version](./src/images/design/screenshot-mobile.png)
+![Mobile version](./src/images/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/react-app-using-css-flexbox-and-grid-DHcJl35IY)
+- Live Site URL: [Live site](https://marcoperetto-react-tip-calculator-challenge.netlify.app/)
 
 ## My process
 
